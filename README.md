@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=varshith2003&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="varshith2003" style="width: 100%; max-width: 800px;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Manohar-code3&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="Manohar-code3" style="width: 100%; max-width: 800px;" />
   </a>
 </div>
 
@@ -104,11 +104,11 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=varshith2003&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="varshith2003" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manohar-code3&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Manohar-code3" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=varshith2003&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="varshith2003" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manohar-code3&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Manohar-code3" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varshith2003&theme=dark&background=000000" alt="varshith2003" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?Manohar-code3&theme=dark&background=000000" alt="Manohar-code3" />
   
 </p>
 
@@ -116,5 +116,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/varshith2003/count.svg" />
+  <img src="https://profile-counter.glitch.me/Manohar-code3/count.svg" />
 </p>
