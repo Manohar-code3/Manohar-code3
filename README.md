@@ -24,7 +24,7 @@
                I'm a software developer with a passion for creating innovative solutions and exploring new technologies. My journey in the tech world has been driven by curiosity and a desire to constantly learn and grow.
 </div>
 
-- 💻 Specializing in **MERN Stack**
+- 💻 Specializing in **AIML and JAVA BACKEND DEVELOPER**
 
 - 🌱 Currently learning **Machine learning** and **Deep learning**
 
