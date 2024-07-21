@@ -75,9 +75,11 @@
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs.dev" width="40" height="40" style="margin: 0 10px;"/>
   </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="vitejs.dev" width="40" height="40" style="margin: 0 10px;"/>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman.com" width="40" height="40" style="margin: 0 10px;"/>
+          
   </a>
+  
   
   
    
@@ -93,7 +95,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" style="margin: 0 10px;"/>
   </a>
   
-  </a>
+ 
  
   <!-- General Programming Languages -->
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
